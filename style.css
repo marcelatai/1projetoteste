@@ -1,0 +1,9 @@
+body {
+  background-image: url(./assets/bg-mobile.jpg);/* inserir imagem de fundo*/
+ background-repeat: no-repeat;/* cancelar repetição de imagem de fundo*/
+ background-position:top center;/* centralizar imagem de fundo tanto eixo x quanto no y*/
+ background-size: cover;/* preencher/cobrir imagem de fundo em toda tela*/
+}
+/* Todas propriedades em uma unica propriedade short hand ou atalho
+background: color image repeat position/size;
+background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;*/
